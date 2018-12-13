@@ -2,7 +2,7 @@ import groovy.transform.Field
 import org.parosproxy.paros.extension.AbstractPanel
 import org.parosproxy.paros.view.WorkbenchPanel
 import org.zaproxy.zap.ZAP
-import org.zaproxy.zap.extension.scripts.ExtenderScriptHelper
+import org.zaproxy.zap.extension.scripts.extenderscripthelper
 import org.zaproxy.zap.utils.DisplayUtils
 
 import javax.swing.ImageIcon

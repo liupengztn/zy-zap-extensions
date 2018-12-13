@@ -59,6 +59,6 @@ public class VerifyScriptTemplates extends AbstractVerifyScriptTemplates {
     private static boolean isExcluded(Path template) {
         String parentDir = template.getParent().getFileName().toString();
         // XXX Validate when the add-ons Fuzzer and Script Console are included in the test classpath.
-        return parentDir.equals("httpfuzzerprocessor") || parentDir.equals("extender");
+        return parentDir.equals("httpfuzzerprocessor") || parentDir.equals("ExtensionScript");
     }
 }
