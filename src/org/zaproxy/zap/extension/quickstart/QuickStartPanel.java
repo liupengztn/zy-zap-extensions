@@ -114,10 +114,10 @@ public class QuickStartPanel extends AbstractPanel implements Tab {
 				LayoutHelper.getGBC(0, panelY, 4, 1.0D, new Insets(5,5,5,5)));
 		if (Constant.isDevBuild()) {
 			panelContent.add(new JLabel(new ImageIcon(QuickStartPanel.class.getResource(
-					"/org/zaproxy/zap/extension/quickstart/resources/zy.jpg"))),
+					"/org/zaproxy/zap/extension/quickstart/resources/zy64.png"))),
 					LayoutHelper.getGBC(4, panelY, 1, 0.0D, 0.0D, GridBagConstraints.NORTH));
 		} else {
-			panelContent.add(new JLabel(DisplayUtils.getScaledIcon(new ImageIcon(SearchPanel.class.getResource("/resource/zap128x128.png")))),
+			panelContent.add(new JLabel(DisplayUtils.getScaledIcon(new ImageIcon(SearchPanel.class.getResource("/resource/zy.jpg")))),
 				LayoutHelper.getGBC(4, panelY, 1, 0.0D, 0.0D, GridBagConstraints.NORTH));
 		}
 	
