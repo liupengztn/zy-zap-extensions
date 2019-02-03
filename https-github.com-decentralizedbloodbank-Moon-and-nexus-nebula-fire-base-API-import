@@ -1,0 +1,133 @@
+Skip to content
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+
+install aluminum firewall postgre api
+Repositories0
+Code252
+Commits0
+Issues0
+Marketplace0
+Topics0
+Wikis0
+Users0
+Language
+
+Sort
+
+252 code results
+@jamesacampbell
+jamesacampbell/fake-resume-generator – Additional Information.txt
+Showing the top two matches
+Last indexed on Jul 6, 2018
+Text
+Web Design HTML5, XHTML, CSS3, JSP
+
+Databases Oracle […] Microsoft SQL Server, SQLite, MongoDB, MySQL, PostgreSQL, DB2
+
+Application &amp; Web Servers Apache Tomcat, JBOSS, WEBrick, Elastic search, Red Hat,
+• AWS, EC2, S3, RDS, SQS, SNS, Route53, ELB, CloudSearch, CloudFront.
+
+• UI Design and development.
+
+• API Design &amp; Development and versioning. Mobile Backend Support, Push Notifications, Bulk E-mail.
+@jamesacampbell
+jamesacampbell/fake-resume-generator – Education.txt
+Showing the top two matches
+Last indexed on Jul 6, 2018
+Text
+Databases Oracle […] Microsoft SQL Server, SQLite, MongoDB, MySQL, PostgreSQL, DB2
+
+Application &amp; Web Servers Apache Tomcat, JBOSS, WEBrick, Elastic search, Red Hat,
+• AWS, EC2, S3, RDS, SQS, SNS, Route53, ELB, CloudSearch, CloudFront.
+
+• UI Design and development.
+
+• API Design &amp; Development and versioning. Mobile Backend Support, Push Notifications, Bulk E-mail.
+@helebor
+helebor/fbmanuals – firebird_on_macosx.xml
+Showing the top two matches
+Last indexed on Jul 11, 2018
+XML
+      <title>Why Am I Writing This ?</title>
+      <para>Until now, my database of choice has been PostgreSQL running on Linux, and more recently 
+      <para>To perform my QA tasks for this project, I elected to install Firebird on my Powerbook. 
+      While downloading and installing the MacOSX Firebird package was relatively straightforward, 
+@MartinKoeditz
+MartinKoeditz/firebird-documentation – firebird_on_macosx.xml
+Showing the top two matches
+Last indexed on Jul 11, 2018
+XML
+      <title>Why Am I Writing This ?</title>
+      <para>Until now, my database of choice has been PostgreSQL running on Linux, and more recently 
+      <para>To perform my QA tasks for this project, I elected to install Firebird on my Powerbook. 
+      While downloading and installing the MacOSX Firebird package was relatively straightforward, 
+@FirebirdSQL
+FirebirdSQL/firebird-documentation – firebird_on_macosx.xml
+Showing the top two matches
+Last indexed on Jul 11, 2018
+XML
+      <title>Why Am I Writing This ?</title>
+      <para>Until now, my database of choice has been PostgreSQL running on Linux, and more recently 
+      <para>To perform my QA tasks for this project, I elected to install Firebird on my Powerbook. 
+      While downloading and installing the MacOSX Firebird package was relatively straightforward, 
+@jamesacampbell
+jamesacampbell/fake-resume-generator – Skills.txt
+Showing the top two matches
+Last indexed on Jul 6, 2018
+Text
+Web Design HTML5, XHTML, CSS3, JSP
+
+Databases Oracle […] Microsoft SQL Server, SQLite, MongoDB, MySQL, PostgreSQL, DB2
+• AWS, EC2, S3, RDS, SQS, SNS, Route53, ELB, CloudSearch, CloudFront.
+
+• UI Design and development.
+
+• API Design &amp; Development and versioning. Mobile Backend Support, Push Notifications, Bulk E-mail.
+@alixaxel
+alixaxel/dump.HN – 14-15.csv
+Showing the top match
+Last indexed on Jul 1, 2018
+CSV
+7258373,comment,7258009,7258326,5,0,FooBarWidget,,,"It&#x27;s not. Most apps rightfully expect that they&#x27;re <i>not</i> PID 1, and that the real PID 1 takes care of that sort of stuff. Only in a container does it happen often that your totally-not-designed-to-be-a-PID-1 app, actually is PID 1.<p>What if you&#x27;re creating a PostgreSQL container, and your init script spawns a daemon, after which it exec()s the PostgreSQL server process as PID 1? The daemon then spawns a few processes that fork a few times. PostgreSQL only waitpid()s on its own postmaster worker processes and so those other processes become zombies. Are you telling me that PostgreSQL is broken and that you have to patch PostgreSQL?<p>I think using a proper init system, and running PostgreSQL under it, is a much saner view on things. The small wrapper that you mentioned is exactly the /sbin/my_init provided by baseimage-docker.",1392735364
+@diarranabe
+diarranabe/WikipediaAnalysis-m1-miage-grpe2-pdl-1718 – cellsFrequenciesDatasetConforms.csv
+Showing the top two matches
+Last indexed on Jul 11, 2018
+CSV
+cross compile to Android  iOS,1
+Mobility Radeon X800 XT,1
+proprietary (OS API clients exist),1
+RV380,1
+4 7 1 (February 6  2015  4 months ago)  (only 3 x supports Pascal),1
+Windows only  XP or later,1
+Feb 12  2012  Stops IE9 from loading when trying to install the plug in ,1
+CPIde,1
+Enhanced Metafile Format,1
+@HarshPatel13
+HarshPatel13/AOBD17_1401019 – Senior System Architect.csv
+Showing the top match
+Last indexed on Jul 6, 2018
+CSV
+"0","Additional Information Professional with more than 10 years of expertise in modeling and implementing software and databases for great quantity of data  - High scalability and high availability System Architect  - Specialist in software and database optimization  - Deep knowledge in implementing and managing Cloud Computing solutions (AWS / Amazon Web Services)    Computer Skills  - Languages: PHP, JavaScript, Java, R, C, Python, Node.js, HTML5, CSS3  - DBMS: MySQL, PostgreSQL, MongoDB, DynamoDB  - Agile Methods: Scrum, Kanban, XP  - Revision control software: Git, Subversion  - Concepts: Object-oriented programming, Design Patterns, MVC, REST API  - AWS: EC2, S3, RDS, Cloudsearch, Cloudfront, SQS, Elasticache,  - Operating Systems: Linux (Debian, Ubuntu), OS X, Windows  - Others: Linux Administration, Apache, New Relic","Cloud Computing  Database Management  PHP  Java  Javascript  Big Data  MySQL  AWS  MongoDB  Cloudsearch  Solr  Linux  Ubuntu","Scup - São Paulo, SP && Scup - São Paulo, SP && Direct Labs - São Paulo, SP && Beezzer && Via6 && Naeg - USP","- Architecture, team coordination and implementation of the company's billing system (using Adyen payment ga- teway)  - Deep knowledge of Amazon Web Services infrastructure, using resources like DynamoDB, Cloudsearch (Solr), Be- anstalk e Map Reduce.  - MySQL optimization specialist (management of a database with more than 260 million records)  - Architecture of a new REST api && - Architecture and implementation of the whole social media monitoring tool. Since database structure, crawlers, etc.  - Deep knowledge of all social medias APIs: Twitter, Facebook, LinkedIn, Foursquare, Flickr, etc.  - This system base drawn by me in 2009 supported, until December 2014, more than 900 companies, 22.000 brands search and 35.000 users. && - Consultancy on management and utilization of social medias in Brazil  - Development of websites and blogs connected with company's social networks  - Development of custom-made online social networks  - Main clients: Telefonica and Itaú  - Great utilization of open source systems like Wordpress, Joomla, Drupal, etc. && Foundation of a online social network focused on products. In a collaborative way people would provide informa- tions, tips and complaints about any kind of product.  - Utilization and research of gamification techniques  - Test driven development (TDD) && Via6 was a online social network based on the exchange of professional content, first Brazilian start-up to receive ""venture capital"" investment also awarded with the Entrepreneur of the Year Prize from INFO magazine.  - Active participation on all areas, from technology to business plan, investors relation and cliente support.  - Development of our own MVC framework.  - Participation on the entire technology operation, from hardware to all Linux server configuration, including load balance, heartbeat, firewall, etc. && Development and implementation of a system focused in generate online data and graphics for college rector and college managers decision making. This system used the University of São Paulo entire database.  - This software had a great appeal and was invited to be implemented on the Government of the State of São Paulo  database.  - Configuration of a Linux server, which required the optimization and compilation of Kernel.  Extracurricular Courses","January 2012 to December 2014 && June 2009 to December 2011 && August 2008 to June 2010 && January 2008 to December 2008 && September 2005 to December 2007 && April 2004 to March 2006","Architect / Senior Software Engineer && Software Engineer && Co-Founder && Co-founder && Co-founder && Trainee on Software development","São Paulo, SP","University of São Paulo São Paulo, SP","2004 to 2008","BS in Computer Science","None"
+@alixaxel
+alixaxel/dump.HN – 19-20.csv
+Showing the top two matches
+Last indexed on Jul 1, 2018
+CSV
+9278649,comment,9277680,9277680,0,0,ajtulloch,,,"More precisely, it&#x27;s an MLP library.<p>My wishlist for Rust in scientific programming:<p>- A really nice ndarray library interfacing with BLAS/LAPACK, like NumPy\n- A nice CUDA library for wrapping the C API\n- A Jupyter/IPython kernel\n- and of course, a whole bunch of people using Rust for scientific programming.",1427486303
+9278630,comment,9277370,9278021,0,0,elchief,,,"It can help in the following scenarios:<p>1. Hacker steals db but does not compromise web servers (because the hmac pepper key lives on the web servers and not in the db)<p>2. Hacker can run SQL Injection via web server, but cannot otherwise access web server memory/process<p>3. HMAC key is stored in a hardware security module and hacker cannot gain physical access",1427486009
+9278629,story,,,14,1,deegles,"The Secret Life of the Aluminum Can",http://www.wired.com/2015/03/secret-life-aluminum-can-true-modern-marvel/,,1427486000
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
